@@ -1,7 +1,7 @@
 # Magnetotelluric noise suppression via convolutional neural network
 This is the trained CNN model in the following:
 [Magnetotelluric noise suppression via convolutional neural network](https://library.seg.org/doi/abs/10.1190/geo2022-0258.1)
-# data
+# Model
 ```
 	- net_CNN.mat is the trained CNN model
 ```
